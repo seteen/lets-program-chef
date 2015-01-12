@@ -1,5 +1,4 @@
 lets-program-chef
 =================
 
-Chefを使った構成管理のサンプル
-
+The sample of configuration management using Chef.
